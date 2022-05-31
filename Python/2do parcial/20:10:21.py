@@ -1,8 +1,0 @@
-print('identify ')
-print('with respect')
-print('feel')
-print('frustraded and also confused')
-print('imagine')
-print('i think the best idea to solve aproblem is talking to each other and have communication')
-print('say')
-print('sorry or apologize')
