@@ -1,0 +1,5 @@
+print ("tu edad en meses es",14*12)
+print ("tu edad en semanas es",14*52) 
+print ("tu edad en dias es",14*365)
+print ("tu edad en horas es",14*8760) 
+print ("tu edad en segundos es",14*525600)
